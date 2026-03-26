@@ -286,14 +286,3 @@ PDF will be created automatically.
 ✔ Reduces human error
 
 ---
-
-# 🔮 Future Improvements
-
-* Auto email PDF to party
-* Auto invoice numbering
-* Power BI integration
-* Dashboard for factory performance
-* Database connection
-* Multi-invoice batch generation
-
-If you want, I can **also create a professional GitHub repo structure (with badges, license, screenshots section, and animated GIF of Generate button)**.
